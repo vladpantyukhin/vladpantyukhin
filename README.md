@@ -23,6 +23,7 @@
 ![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=Python&logoColor=yellow)
 ![Django](https://img.shields.io/badge/-Django-333?style=for-the-badge&logo=Django&logoColor=green)
 ![Adobe Photoshop](https://img.shields.io/badge/-adobe_photoshop-333?style=for-the-badge&logo=adobe&logoColor=blue)
+![Figma](https://img.shields.io/badge/-Figma-333?style=for-the-badge&logo=figma)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vladpantyukhin&layout=compact&theme=dark)
 
