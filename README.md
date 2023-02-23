@@ -2,8 +2,7 @@
 
 ### Проекты
 
-- [Лендинг-портфолио](https://github.com/vladpantyukhin/landing_portfolio)
-- [Одностраничный сайт](https://github.com/vladpantyukhin/landing_automotive)
+- [Лендинг Automotive](https://github.com/vladpantyukhin/landing_automotive)
 - [Интернет-магазин Panshop](https://github.com/vladpantyukhin/panshop)
 
 ### Статистика на GitHub
