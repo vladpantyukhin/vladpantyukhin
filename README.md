@@ -3,8 +3,9 @@
 ### Проекты
 
 - [Лендинг Automotive](https://github.com/vladpantyukhin/landing_automotive)
-- [Лендинг Стадион](https://github.com/vladpantyukhin/landing_stadium)
 - [Лендинг Konstruct](https://github.com/vladpantyukhin/landing_konstruct)
+- [Лендинг Стадион](https://github.com/vladpantyukhin/landing_stadium)
+- [Лендинг Britlex](https://vladpantyukhin.github.io/landing_britlex/)
 - [Интернет-магазин Panshop](https://github.com/vladpantyukhin/panshop)
 
 ### Статистика на GitHub
