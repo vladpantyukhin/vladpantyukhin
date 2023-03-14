@@ -7,7 +7,6 @@
 - [Лендинг Стадион](https://github.com/vladpantyukhin/landing_stadium)
 - [Лендинг Britlex](https://vladpantyukhin.github.io/landing_britlex/)
 - [Интернет-магазин Panshop](https://github.com/vladpantyukhin/panshop)
-- [Тема для VSCode Dark Rabbit](https://github.com/vladpantyukhin/theme-dark-rabbit)
 
 ### Статистика на GitHub
 
